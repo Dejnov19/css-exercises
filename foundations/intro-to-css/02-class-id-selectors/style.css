@@ -1,0 +1,22 @@
+.first_last,
+#n3 {
+    color: black;
+    background-color: rgb(206, 140, 140);
+    font-family: Verdana, sans-serif;
+}
+#n2 {
+    color: blue;
+    font-size: 36px;
+    font-weight: bold;
+}
+#n3 {
+    font-size: 30px;
+}
+#n4 {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
+.first_last {
+    font-size: 20px;
+}
